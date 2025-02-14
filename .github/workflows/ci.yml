@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: learn_rahul
+  REPOSITORY_NAME: learn-rahulsahu
   IMAGE_TAG: latest
 
 jobs:
